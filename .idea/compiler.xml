@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Amazing_Numbers.Amazing_Numbers-task-build-classes-java.main" target="11" />
+      <module name="Amazing_Numbers.Amazing_Numbers-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Amazing_Numbers.Amazing_Numbers-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Amazing_Numbers.Amazing_Numbers-task-build-reports-tests.main" target="11" />
+      <module name="Amazing_Numbers.Amazing_Numbers-task-build-test-results.main" target="11" />
+      <module name="Amazing_Numbers.Amazing_Numbers-task-build-tmp.main" target="11" />
+      <module name="Amazing_Numbers.Amazing_Numbers-task.main" target="11" />
+      <module name="Amazing_Numbers.Topics-Fields_and_methods_in_enum-Balance_management.main" target="11" />
+      <module name="Amazing_Numbers.Topics-Fields_and_methods_in_enum-Directions.main" target="11" />
+      <module name="Amazing_Numbers.Topics-Fields_and_methods_in_enum-Planets_of_the_solar_system.main" target="11" />
+      <module name="Amazing_Numbers.Topics-Fields_and_methods_in_enum-Robot_control.main" target="11" />
+      <module name="Amazing_Numbers.Topics-Fields_and_methods_in_enum-System_of_units.main" target="11" />
+      <module name="Amazing_Numbers.Topics-Fields_and_methods_in_enum-Theory.main" target="11" />
+      <module name="Amazing_Numbers.Topics-Static_members-About_static_members.main" target="11" />
+      <module name="Amazing_Numbers.Topics-Static_members-Accessing_static_members.main" target="11" />
+      <module name="Amazing_Numbers.Topics-Static_members-Applying_the_static_keyword.main" target="11" />
+      <module name="Amazing_Numbers.Topics-Static_members-Detail_manufacturing.main" target="11" />
+      <module name="Amazing_Numbers.Topics-Static_members-Mystery_of_the_methods.main" target="11" />
+      <module name="Amazing_Numbers.Topics-Static_members-Project_constants_and_methods.main" target="11" />
+      <module name="Amazing_Numbers.Topics-Static_members-Searching_bugs.main" target="11" />
+      <module name="Amazing_Numbers.Topics-Static_members-Statements.main" target="11" />
+      <module name="Amazing_Numbers.Topics-Static_members-Static_fields.main" target="11" />
+      <module name="Amazing_Numbers.Topics-Static_members-Theory.main" target="11" />
+      <module name="Amazing_Numbers.Topics-Static_members-Time_constants.main" target="11" />
+      <module name="Amazing_Numbers.Topics-Static_members-Too_many_cats.main" target="11" />
+      <module name="Amazing_Numbers.Topics-StringBuilder-Behold_the_power_of_StringBuilder.main" target="11" />
+      <module name="Amazing_Numbers.Topics-StringBuilder-Concat_all_strings_without_digits.main" target="11" />
+      <module name="Amazing_Numbers.Topics-StringBuilder-Immutability.main" target="11" />
+      <module name="Amazing_Numbers.Topics-StringBuilder-Multiple_modifications.main" target="11" />
+      <module name="Amazing_Numbers.Topics-StringBuilder-Statements.main" target="11" />
+      <module name="Amazing_Numbers.Topics-StringBuilder-The_actual_number_of_characters.main" target="11" />
+      <module name="Amazing_Numbers.Topics-StringBuilder-The_English_alphabet.main" target="11" />
+      <module name="Amazing_Numbers.Topics-StringBuilder-Theory.main" target="11" />
+      <module name="Amazing_Numbers.Topics-StringBuilder-What_is_the_output.main" target="11" />
+      <module name="Amazing_Numbers.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

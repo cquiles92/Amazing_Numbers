@@ -1,0 +1,34 @@
+# Project exclude paths
+/.gradle/
+/Amazing Numbers/task/build/
+/Amazing Numbers/task/build/test-results/build/
+/Topics/Static members/Searching bugs/out/
+/Topics/Static members/Searching bugs/out/production/classes/
+/Topics/Static members/Statements/out/
+/Topics/Static members/Statements/out/production/classes/
+/Topics/Static members/Static fields/out/
+/Topics/Static members/Static fields/out/production/classes/
+/Topics/Static members/Theory/out/
+/Topics/Static members/Theory/out/production/classes/
+/Topics/Static members/Time constants/out/
+/Topics/Static members/Time constants/out/production/classes/
+/Topics/Static members/Too many cats/out/
+/Topics/Static members/Too many cats/out/production/classes/
+/Topics/StringBuilder/Behold the power of StringBuilder/out/
+/Topics/StringBuilder/Behold the power of StringBuilder/out/production/classes/
+/Topics/StringBuilder/Concat all strings without digits/out/
+/Topics/StringBuilder/Concat all strings without digits/out/production/classes/
+/Topics/StringBuilder/Immutability/out/
+/Topics/StringBuilder/Immutability/out/production/classes/
+/Topics/StringBuilder/Multiple modifications/out/
+/Topics/StringBuilder/Multiple modifications/out/production/classes/
+/Topics/StringBuilder/Statements/out/
+/Topics/StringBuilder/Statements/out/production/classes/
+/Topics/StringBuilder/The actual number of characters/out/
+/Topics/StringBuilder/The actual number of characters/out/production/classes/
+/Topics/StringBuilder/The English alphabet/out/
+/Topics/StringBuilder/The English alphabet/out/production/classes/
+/Topics/StringBuilder/Theory/out/
+/Topics/StringBuilder/Theory/out/production/classes/
+/Topics/StringBuilder/What is the output/out/
+/Topics/StringBuilder/What is the output/out/production/classes/
